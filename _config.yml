@@ -3,5 +3,5 @@ pygments: true
 markdown: kramdown
 title: Zengus
 tagline: 
-description: <a href="https://www.zengus.com/" target="_blank">Zengus</a> blog
+description: <a href="http://www.zengus.com/" target="_blank">Zengus</a> blog
 paginate: 5
