@@ -1,0 +1,7 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+title: Zengus
+tagline: 
+description: <a href="https://zengus.com/&quot; target=&quot;_blank">Zengus</a> blog
+paginate: 5
